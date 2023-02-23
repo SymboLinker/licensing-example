@@ -1,9 +1,6 @@
 # Example
 
-This repository is an example of how to add the most permissive licensing to your code
-
-- in a short but explanatory manner.
-- without using language that is activist-like.
+This repository is an example of how to add the most permissive licensing to your repository in a short but explanatory manner.
 
 It is an attempt to SAVE TIME for you, the users of your code, the legal staff that the users work with, the employer of those users, etc.
 
